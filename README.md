@@ -120,13 +120,6 @@ Streamlit-based multi-model chatbot UI supporting **Groq** and **OpenAI** backen
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ssoumay11&theme=algolia&no-frame=true&column=7&margin-w=8" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
