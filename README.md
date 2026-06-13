@@ -1,192 +1,154 @@
-# Premium GitHub README for Soumay Verma
-
-> NOTE: Replace `YOUR_REPO` placeholders with actual repository links.
-
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Soumay%20Verma&fontAlign=50&fontAlignY=40&color=0:6D28D9,100:312E81" />`{=html}
-```{=html}
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Soumay%20Verma&fontAlign=50&fontAlignY=40&color=0:6D28D9,100:312E81&fontColor=ffffff&fontSize=50" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+ML+Engineer;Agentic+AI+Developer;LangGraph+and+LLM+Builder;FastAPI+Python+Computer+Vision" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&color=6D28D9&lines=AI+%26+ML+Engineer;Agentic+AI+Developer;LangGraph+%26+LLM+Builder;FastAPI+%7C+Python+%7C+Computer+Vision" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://www.linkedin.com/in/soumay-verma-b71b28257">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="mailto:soumayverma1000@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/Ssoumay11">`{=html}`<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/soumayverma1000/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/>`{=html}`</a>`{=html}
-```{=html}
+  <a href="https://www.linkedin.com/in/soumay-verma-b71b28257"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:soumayverma1000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ssoumay11"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/soumayverma1000/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+Recent **B.Tech graduate in Computer Science (Data Science)** focused on building production-grade AI systems. I specialize in **Agentic AI**, **LangGraph**, **RAG pipelines**, **FastAPI**, and **Computer Vision** — passionate about turning research into deployable products that solve real problems.
+
+```yaml
+currently:
+  learning:   ["Advanced RAG", "Multi-Agent Systems", "LLMOps"]
+  building:   ["Production AI Applications"]
+open_to:      ["AI Engineer", "ML Engineer", "LLM Engineer", "Agentic AI Engineer"]
+location:     "India"
 ```
 
-------------------------------------------------------------------------
+---
 
-## About
+## 🛠️ Tech Stack
 
-Recent B.Tech graduate in Computer Science (Data Science) focused on
-production AI systems, Agentic AI, LangGraph, RAG, FastAPI and Computer
-Vision. Passionate about building deployable products.
+| Category | Skills |
+|---|---|
+| **Languages** | Python · C++ |
+| **Agentic AI** | LangGraph · LangChain · ReAct · Tool Calling |
+| **LLMs** | OpenAI API · Hugging Face · GPT-4 |
+| **ML / DL** | PyTorch · TensorFlow · Scikit-learn |
+| **Backend** | FastAPI · REST APIs |
+| **Computer Vision** | OpenCV · MediaPipe · YOLO |
+| **Vector DBs** | FAISS · ChromaDB |
+| **Data** | SQL · Pandas · NumPy |
+| **DevOps** | Docker · AWS |
 
-### Open To
+---
 
--   AI Engineer
--   ML Engineer
--   LLM Engineer
--   Agentic AI Engineer
+## 🚀 Featured Projects
 
-------------------------------------------------------------------------
-
-## Tech Stack
-
-  Category    Skills
-  ----------- ------------------------------------------------
-  Languages   Python, C++
-  AI          LangGraph, LangChain, OpenAI API, Hugging Face
-  ML          PyTorch, TensorFlow, Scikit-learn
-  Backend     FastAPI, REST APIs
-  Data        SQL, Pandas, NumPy
-  Vector DB   FAISS, ChromaDB
-  CV          OpenCV, MediaPipe, YOLO
-  DevOps      Docker, AWS
-
-------------------------------------------------------------------------
-
-## AI Expertise
-
-  Domain            Level      Details
-  ----------------- ---------- --------------------------------
-  Agentic AI        Advanced   LangGraph, ReAct, Tool Calling
-  RAG               Advanced   Retrieval pipelines
-  Computer Vision   Advanced   Pose estimation, OCR
-  Backend           Advanced   FastAPI APIs
-  LLM Integration   Advanced   GPT APIs
-
-------------------------------------------------------------------------
-
-## Featured Projects
-
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}AI Mental Health Therapist`</b>`{=html}
-```{=html}
-</summary>
-```
-  Item         Value
-  ------------ ----------------------------
-  Stack        LangGraph, FastAPI, Twilio
-  Impact       Crisis workflow automation
-  Repository   YOUR_REPO
+<summary><b>🧠 AI Mental Health Therapist</b> — LangGraph · FastAPI · Twilio</summary>
+<br>
 
-Built an agentic mental health assistant with ReAct workflow and
-external tools.
+Agentic mental health assistant built with a **ReAct workflow** and external tool integration. Automates crisis workflows and provides empathetic, structured responses via a conversational interface.
 
-```{=html}
+- **Stack:** LangGraph, FastAPI, Twilio, OpenAI API
+- **Repo:** [AI-Mental-Health-Therapist-LangGraph-ReAct-Tool-Calling](https://github.com/Ssoumay11/AI-Mental-Health-Therapist-LangGraph-ReAct-Tool-Calling)
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}AI Fitness Coach`</b>`{=html}
-```{=html}
-</summary>
-```
-Uses MediaPipe and LLMs for posture analysis and coaching.
+<summary><b>🎾 Tennis Analysis System</b> — Computer Vision · YOLO · Tracking</summary>
+<br>
 
-```{=html}
+Real-time tennis match analysis system using **YOLO object detection** and tracking algorithms to analyze player movement, ball trajectory, and match statistics.
+
+- **Stack:** Python, YOLO, OpenCV, Jupyter
+- **Repo:** [tennis_analysis-main](https://github.com/Ssoumay11/tennis_analysis-main)
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}AI Driven Industrial Digital Twin`</b>`{=html}
-```{=html}
-</summary>
-```
-Multi-agent factory simulation using LangGraph.
+<summary><b>🏋️ AI Fitness Coach</b> — MediaPipe · LLMs · Pose Estimation</summary>
+<br>
 
-```{=html}
+Uses **MediaPipe** pose estimation and LLMs to analyze workout form in real-time, providing personalized coaching feedback and posture correction.
+
+- **Stack:** MediaPipe, OpenCV, LangChain, Python
 </details>
-```
 
-------------------------------------------------------------------------
+<details>
+<summary><b>🏭 AI-Driven Industrial Digital Twin</b> — Multi-Agent · LangGraph</summary>
+<br>
 
-## Coding Profiles
+Multi-agent factory simulation system using **LangGraph** to model and optimize industrial processes, enabling predictive maintenance and operational insights.
 
--   LeetCode: https://leetcode.com/u/soumayverma1000/
+- **Stack:** LangGraph, LangChain, FastAPI, Python
+</details>
 
-------------------------------------------------------------------------
+<details>
+<summary><b>🩺 AI Medical Chatbot</b> — RAG · Hugging Face · Streamlit</summary>
+<br>
 
-## GitHub Analytics
+Document QA system that lets users upload PDFs and receive context-aware medical answers using **RAG (Retrieval-Augmented Generation)** with a Hugging Face backend.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ssoumay11&show_icons=true&theme=tokyonight)
+- **Stack:** Hugging Face, LangChain, FAISS, Streamlit
+- **Repo:** [AI-Medical-Chatbot-](https://github.com/Ssoumay11/AI-Medical-Chatbot-)
+</details>
 
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssoumay11&layout=compact&theme=tokyonight)
+<details>
+<summary><b>🤖 AI Chatbot Agent</b> — Groq · OpenAI · Streamlit</summary>
+<br>
 
-![Streak](https://streak-stats.demolab.com?user=Ssoumay11&theme=tokyonight)
+Streamlit-based multi-model chatbot UI supporting **Groq** and **OpenAI** backends with configurable system prompts and agent personas.
 
-------------------------------------------------------------------------
+- **Stack:** Streamlit, Groq API, OpenAI API, Python
+- **Repo:** [AI_chatbot](https://github.com/Ssoumay11/AI_chatbot)
+</details>
 
-## Trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=Ssoumay11&theme=algolia)
+## 📊 GitHub Analytics
 
-------------------------------------------------------------------------
-
-## Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ssoumay11&theme=tokyo-night)
-
-------------------------------------------------------------------------
-
-## Current Focus
-
-``` yaml
-learning:
-  - Advanced RAG
-  - Multi Agent Systems
-building:
-  - Production AI Applications
-exploring:
-  - LLMOps
-open_to:
-  - AI ML Roles
-```
-
-------------------------------------------------------------------------
-
-## Connect
-
--   GitHub: https://github.com/Ssoumay11
--   LinkedIn: https://www.linkedin.com/in/soumay-verma-b71b28257
--   Email: soumayverma1000@gmail.com
-
-------------------------------------------------------------------------
-
-> Building practical AI systems that solve real problems.
-
-```{=html}
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6D28D9,100:312E81"/>`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api?username=Ssoumay11&show_icons=true&theme=tokyonight&border_color=6D28D9&title_color=6D28D9&icon_color=6D28D9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssoumay11&layout=compact&theme=tokyonight&border_color=6D28D9&title_color=6D28D9" height="165"/>
 </p>
-```
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ssoumay11&theme=tokyonight&border=6D28D9&ring=6D28D9&fire=6D28D9" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ssoumay11&theme=algolia&no-frame=true&column=7&margin-w=8" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssoumay11&theme=tokyo-night&area=true&hide_border=true&color=6D28D9&line=6D28D9&point=ffffff" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ssoumay11">GitHub</a> •
+  <a href="https://www.linkedin.com/in/soumay-verma-b71b28257">LinkedIn</a> •
+  <a href="https://leetcode.com/u/soumayverma1000/">LeetCode</a> •
+  <a href="mailto:soumayverma1000@gmail.com">soumayverma1000@gmail.com</a>
+</p>
+
+<p align="center">
+  <i>Building practical AI systems that solve real problems.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:6D28D9,100:312E81&height=120"/>
+</p>
