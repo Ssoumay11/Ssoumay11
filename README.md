@@ -128,13 +128,15 @@ Streamlit-based multi-model chatbot UI supporting **Groq** and **OpenAI** backen
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssoumay11&theme=tokyo-night&area=true&hide_border=true&color=6D28D9&line=6D28D9&point=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ssoumay11/Ssoumay11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ssoumay11/Ssoumay11/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Ssoumay11/Ssoumay11/output/github-snake.svg" />
+  </picture>
 </p>
-
----
 
 ## 🤝 Connect With Me
 
