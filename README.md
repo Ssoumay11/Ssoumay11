@@ -15,6 +15,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
 Recent **B.Tech graduate in Computer Science (Data Science)** focused on building production-grade AI systems. I specialize in **Agentic AI**, **LangGraph**, **RAG pipelines**, **FastAPI**, and **Computer Vision** — passionate about turning research into deployable products that solve real problems.
@@ -23,87 +24,105 @@ Recent **B.Tech graduate in Computer Science (Data Science)** focused on buildin
 currently:
   learning:   ["Advanced RAG", "Multi-Agent Systems", "LLMOps"]
   building:   ["Production AI Applications"]
-open_to:      ["AI Engineer", "ML Engineer", "LLM Engineer", "Agentic AI Engineer"]
-location:     "India"
+location:     "India 🇮🇳"
+open_to:
 ```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Engineer-open-6D28D9?style=flat-square&labelColor=EDE9FE"/>
+  <img src="https://img.shields.io/badge/ML%20Engineer-open-0F6E56?style=flat-square&labelColor=D1FAE5"/>
+  <img src="https://img.shields.io/badge/LLM%20Engineer-open-B45309?style=flat-square&labelColor=FEF3C7"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Engineer-open-185FA5?style=flat-square&labelColor=DBEAFE"/>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Skills |
-|---|---|
-| **Languages** | Python · C++ |
-| **Agentic AI** | LangGraph · LangChain · ReAct · Tool Calling |
-| **LLMs** | OpenAI API · Hugging Face · GPT-4 |
-| **ML / DL** | PyTorch · TensorFlow · Scikit-learn |
-| **Backend** | FastAPI · REST APIs |
-| **Computer Vision** | OpenCV · MediaPipe · YOLO |
-| **Vector DBs** | FAISS · ChromaDB |
-| **Data** | SQL · Pandas · NumPy |
-| **DevOps** | Docker · AWS |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Agentic AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ReAct-6D28D9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Tool%20Calling-6D28D9?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML / DL</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Computer Vision</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Vector DBs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🧠 AI Mental Health Therapist</b> — LangGraph · FastAPI · Twilio</summary>
-<br>
-
-Agentic mental health assistant built with a **ReAct workflow** and external tool integration. Automates crisis workflows and provides empathetic, structured responses via a conversational interface.
-
-- **Stack:** LangGraph, FastAPI, Twilio, OpenAI API
-- **Repo:** [AI-Mental-Health-Therapist-LangGraph-ReAct-Tool-Calling](https://github.com/Ssoumay11/AI-Mental-Health-Therapist-LangGraph-ReAct-Tool-Calling)
-</details>
-
-<details>
-<summary><b>🎾 Tennis Analysis System</b> — Computer Vision · YOLO · Tracking</summary>
-<br>
-
-Real-time tennis match analysis system using **YOLO object detection** and tracking algorithms to analyze player movement, ball trajectory, and match statistics.
-
-- **Stack:** Python, YOLO, OpenCV, Jupyter
-- **Repo:** [tennis_analysis-main](https://github.com/Ssoumay11/tennis_analysis-main)
-</details>
-
-<details>
-<summary><b>🏋️ AI Fitness Coach</b> — MediaPipe · LLMs · Pose Estimation</summary>
-<br>
-
-Uses **MediaPipe** pose estimation and LLMs to analyze workout form in real-time, providing personalized coaching feedback and posture correction.
-
-- **Stack:** MediaPipe, OpenCV, LangChain, Python
-</details>
-
-<details>
-<summary><b>🏭 AI-Driven Industrial Digital Twin</b> — Multi-Agent · LangGraph</summary>
-<br>
-
-Multi-agent factory simulation system using **LangGraph** to model and optimize industrial processes, enabling predictive maintenance and operational insights.
-
-- **Stack:** LangGraph, LangChain, FastAPI, Python
-</details>
-
-<details>
-<summary><b>🩺 AI Medical Chatbot</b> — RAG · Hugging Face · Streamlit</summary>
-<br>
-
-Document QA system that lets users upload PDFs and receive context-aware medical answers using **RAG (Retrieval-Augmented Generation)** with a Hugging Face backend.
-
-- **Stack:** Hugging Face, LangChain, FAISS, Streamlit
-- **Repo:** [AI-Medical-Chatbot-](https://github.com/Ssoumay11/AI-Medical-Chatbot-)
-</details>
-
-<details>
-<summary><b>🤖 AI Chatbot Agent</b> — Groq · OpenAI · Streamlit</summary>
-<br>
-
-Streamlit-based multi-model chatbot UI supporting **Groq** and **OpenAI** backends with configurable system prompts and agent personas.
-
-- **Stack:** Streamlit, Groq API, OpenAI API, Python
-- **Repo:** [AI_chatbot](https://github.com/Ssoumay11/AI_chatbot)
-</details>
+| | Project | Description | Stack |
+|---|---|---|---|
+| 🧠 | [**AI Mental Health Therapist**](https://github.com/Ssoumay11/AI-Mental-Health-Therapist-LangGraph-ReAct-Tool-Calling) | Agentic ReAct workflow with crisis automation via Twilio | `LangGraph` `FastAPI` `Twilio` |
+| 🎾 | [**Tennis Analysis System**](https://github.com/Ssoumay11/tennis_analysis-main) | Real-time player & ball tracking with YOLO | `YOLO` `OpenCV` `Python` |
+| 🏋️ | **AI Fitness Coach** | Live posture correction via MediaPipe pose estimation | `MediaPipe` `LangChain` `CV` |
+| 🏭 | **Industrial Digital Twin** | Multi-agent factory simulation for predictive maintenance | `LangGraph` `Multi-Agent` `FastAPI` |
+| 🩺 | [**AI Medical Chatbot**](https://github.com/Ssoumay11/AI-Medical-Chatbot-) | PDF document QA with RAG + Hugging Face backend | `RAG` `FAISS` `Streamlit` |
+| 🤖 | [**AI Chatbot Agent**](https://github.com/Ssoumay11/AI_chatbot) | Multi-model chatbot with Groq & OpenAI, configurable prompts | `Groq` `OpenAI` `Streamlit` |
 
 ---
 
