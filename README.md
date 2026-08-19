@@ -119,25 +119,11 @@ open_to:
 |---|---|---|---|
 | 🧠 | [**AI Mental Health Therapist**](https://github.com/Ssoumay11/AI-Mental-Health-Therapist-LangGraph-ReAct-Tool-Calling) | Agentic ReAct workflow with crisis automation via Twilio | `LangGraph` `FastAPI` `Twilio` |
 | 🎾 | [**Tennis Analysis System**](https://github.com/Ssoumay11/tennis_analysis-main) | Real-time player & ball tracking with YOLO | `YOLO` `OpenCV` `Python` |
-| 🏋️ | **AI Fitness Coach** | Live posture correction via MediaPipe pose estimation | `MediaPipe` `LangChain` `CV` |
+| 🤖 | Adaptive RAG – Agentic AI Chatbot | Agentic RAG system with intelligent query routing, document retrieval, query rewriting, relevance grading, and real-time web search | LangGraph LangChain Qdrant OpenAI Tavily FastAPI Streamlit MongoDB |
 | 🏭 | **Industrial Digital Twin** | Multi-agent factory simulation for predictive maintenance | `LangGraph` `Multi-Agent` `FastAPI` |
 | 🩺 | [**AI Medical Chatbot**](https://github.com/Ssoumay11/AI-Medical-Chatbot-) | PDF document QA with RAG + Hugging Face backend | `RAG` `FAISS` `Streamlit` |
 | 🤖 | [**AI Chatbot Agent**](https://github.com/Ssoumay11/AI_chatbot) | Multi-model chatbot with Groq & OpenAI, configurable prompts | `Groq` `OpenAI` `Streamlit` |
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ssoumay11&show_icons=true&theme=tokyonight&border_color=6D28D9&title_color=6D28D9&icon_color=6D28D9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssoumay11&layout=compact&theme=tokyonight&border_color=6D28D9&title_color=6D28D9" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ssoumay11&theme=tokyonight&border=6D28D9&ring=6D28D9&fire=6D28D9" />
-</p>
-
----
 
 
 ## 🐍 Contribution Snake
