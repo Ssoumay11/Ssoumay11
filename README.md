@@ -119,7 +119,7 @@ open_to:
 |---|---|---|---|
 | 🧠 | [**AI Mental Health Therapist**](https://github.com/Ssoumay11/AI-Mental-Health-Therapist-LangGraph-ReAct-Tool-Calling) | Agentic ReAct workflow with crisis automation via Twilio | `LangGraph` `FastAPI` `Twilio` |
 | 🎾 | [**Tennis Analysis System**](https://github.com/Ssoumay11/tennis_analysis-main) | Real-time player & ball tracking with YOLO | `YOLO` `OpenCV` `Python` |
-| 🤖 | Adaptive RAG – Agentic AI Chatbot | Agentic RAG system with intelligent query routing, document retrieval, query rewriting, relevance grading, and real-time web search | LangGraph LangChain Qdrant OpenAI Tavily FastAPI Streamlit MongoDB |
+| 🤖 | [**Adaptive RAG – Agentic AI Chatbot**](https://github.com/Ssoumay11/Adaptive-Rag) | Intelligent RAG system with dynamic query routing, document retrieval, query rewriting, and web search | `LangGraph` `LangChain` `Qdrant` `OpenAI` `Tavily` `FastAPI` `Streamlit` |
 | 🏭 | **Industrial Digital Twin** | Multi-agent factory simulation for predictive maintenance | `LangGraph` `Multi-Agent` `FastAPI` |
 | 🩺 | [**AI Medical Chatbot**](https://github.com/Ssoumay11/AI-Medical-Chatbot-) | PDF document QA with RAG + Hugging Face backend | `RAG` `FAISS` `Streamlit` |
 | 🤖 | [**AI Chatbot Agent**](https://github.com/Ssoumay11/AI_chatbot) | Multi-model chatbot with Groq & OpenAI, configurable prompts | `Groq` `OpenAI` `Streamlit` |
